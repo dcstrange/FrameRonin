@@ -49,3 +49,7 @@ frontend/scripts/bg*.txt
 .dev.vars*
 !.dev.vars.example
 !.env.example
+
+avatar_service/.env
+avatar_service/assets/
+avatar_service/.venv/
